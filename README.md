@@ -1,2 +1,2 @@
-# Formul çok zeki olmak değildir;
+# Formül çok zeki olmak değildir;
 AZ uyumak,AZ yemek,ÇOK çalışmak.
